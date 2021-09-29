@@ -13,8 +13,6 @@ public class StringSearch {
             if (name.charAt(i)==target)return true;
         }
         return false;
-
-
         }
     }
 
